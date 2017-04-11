@@ -1,17 +1,31 @@
-.col-xs-6, .col-sm-3, .col-sm-9 {
-  height: 300px;
-  border: 1px solid #000;
+.blue {
+  background-color: blue;
+  height: 100px;
+  border: 1px solid black;
 }
-
-.col-sm-4, .col-sm-8 {
-  height: 200px;
-  border: 1px dashed #000;
+.green {
+  background-color: green;
+  height: 25px;
+  border: 1px solid black;
 }
-
 .red {
-  background-color: #e40007;
+  background-color: red;
+  height: 150px;
+  border: 1px solid black;
 }
-
-.grey {
-  background-color: #eee;
+.light_blue {
+  background-color: turquoise;
+  height: 150px;
+  border: 1px solid black;
+}
+.orange {
+  background-color: orange;
+  height: 125px;
+  border: 1px solid black;
+}
+.black {
+  background-color: black;
+  height: 25px;
+  border: 1px solid grey;
+  color: white;
 }
